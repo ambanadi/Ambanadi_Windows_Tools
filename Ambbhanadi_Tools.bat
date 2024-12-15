@@ -21,7 +21,7 @@ echo [7] Malicious Removal Tool(MRT)  [8] System Configuration            [9] Te
 echo [10] Resource Monitor            [11] Performance Monitor            [12] Internet Properties
 echo [13] Programs unistall           [14] EvenView                       [15] Syatem Infomation
 echo [16] Computer Management         [17] Security and Maintenance       [18] Defragment and Optimize Drives
-echo [19] Disk Cleanup                [20] Local Security Policy          [21] Recovery Drive
+echo [19] Disk Cleanup                [20] Group Policy                   [21] Recovery Drive
 echo [22] Registry Editor             [23] Windows Memory Diagnostic      [24] Driver Verifier Manager     
 echo [25] Snipping Tool               [26] Windows Activation             [27] Create a shared folder wizard
 echo [28] Presentation Settings       [29] On-Screen Keyboard             [30] Windows Features
@@ -194,7 +194,7 @@ goto :MENU
 
 :se20
 cls
-secpol.msc /s
+gpedit.msc
 pause
 goto :MENU
 
