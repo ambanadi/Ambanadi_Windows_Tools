@@ -36,7 +36,7 @@
 
 [19] Disk Cleanup
 
-[20] Local Security Policy
+[20] Group Policy
 
 [21] Recovery Drive
 
