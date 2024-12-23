@@ -1,87 +1,344 @@
-[1] ipconfig command
+<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Ambbhanadi Windows Tool (v3.8.4) </h1>
 
-[2] System Properties
+### <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Code ကြည့်ပါ</h3>
 
-[3] System IP
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> ipconfig command</b></summary>
+  
+  ```powershell
+ipconfig
+  ```
+</details>
 
-[4] systeminfo
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> System Properties</b></summary>
+  
+  ```powershell
+sysdm.cpl
+  ```
+</details>
 
-[5] About window
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> System IP</b></summary>
+  
+  ```powershell
+curl ifconfig.me
+  ```
+</details>
 
-[6] Check Activation
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> systeminfo</b></summary>
+  
+  ```powershell
+systeminfo
+  ```
+</details>
 
-[7] Malicious Removal Tool(MRT)
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> About window</b></summary>
+  
+  ```powershell
+winver.exe
+  ```
+</details>
 
-[8] System Configuration
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Check Activation</b></summary>
+  
+  ```powershell
+slmgr /xpr
+  ```
+</details>
 
-[9] Test Manager
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Malicious Removal Tool(MRT)</b></summary>
+  
+  ```powershell
+MRT
+  ```
+</details>
 
-[10] Resource Monitor
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> System Configuration</b></summary>
+  
+  ```powershell
+msconfig.exe
+  ```
+</details>
 
-[11] Performance Monitor
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Test Manager</b></summary>
+  
+  ```powershell
+taskmgr.exe /7
+  ```
+</details>
 
-[12] Internet Properties
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Resource Monitor</b></summary>
+  
+  ```powershell
+resmon.exe
+  ```
+</details>
 
-[13] Programs unistall
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Performance Monitor</b></summary>
+  
+  ```powershell
+perfmon.exe
+  ```
+</details>
 
-[14] EvenView
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Internet Properties</b></summary>
+  
+  ```powershell
+inetcpl.cpl
+  ```
+</details>
 
-[15] Syatem Infomation
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Programs unistall</b></summary>
+  
+  ```powershell
+appwiz.cpl
+  ```
+</details>
 
-[16] Computer Management
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> EvenView</b></summary>
+  
+  ```powershell
+eventvwr.exe
+  ```
+</details>
 
-[17] Security and Maintenance
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Syatem Infomation</b></summary>
+  
+  ```powershell
+msinfo32.exe
+  ```
+</details>
 
-[18] Defragment and Optimize Drives
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Computer Management</b></summary>
+  
+  ```powershell
+compmgmt.msc
+  ```
+</details>
 
-[19] Disk Cleanup
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Security and Maintenance</b></summary>
+  
+  ```powershell
+wscui.cpl
+  ```
+</details>
 
-[20] Group Policy
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Defragment and Optimize Drives</b></summary>
+  
+  ```powershell
+dfrgui.exe
+  ```
+</details>
 
-[21] Recovery Drive
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Disk Cleanup</b></summary>
+  
+  ```powershell
+cleanmgr.exe
+  ```
+</details>
 
-[22] Registry Editor
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Group Policy</b></summary>
+  
+  ```powershell
+gpedit.msc
+  ```
+</details>
 
-[23] Windows Memory Diagnostic
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Recovery Drive</b></summary>
+  
+  ```powershell
+RecoveryDrive.exe
+  ```
+</details>
 
-[24] Driver Verifier Manager
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Registry Editor</b></summary>
+  
+  ```powershell
+regedit.exe
+  ```
+</details>
 
-[25] Snipping Tool
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Windows Memory Diagnostic</b></summary>
+  
+  ```powershell
+MdSched.exe
+  ```
+</details>
 
-[26] Windows Activation
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Driver Verifier Manager</b></summary>
+  
+  ```powershell
+verifier
+  ```
+</details>
 
-[27] Create a shared folder wizard
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Snipping Tool</b></summary>
+  
+  ```powershell
+snippingtool
+  ```
+</details>
 
-[28] Presentation Settings
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Windows Activation</b></summary>
+  
+  ```powershell
+slui
+  ```
+</details>
 
-[29] On-Screen Keyboard
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Create a shared folder wizard</b></summary>
+  
+  ```powershell
+shrpubw
+  ```
+</details>
 
-[30] Windows Features
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Presentation Settings</b></summary>
+  
+  ```powershell
+presentationsettings
+  ```
+</details>
 
-[31] User Accounts
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> On-Screen Keyboard</b></summary>
+  
+  ```powershell
+osk
+  ```
+</details>
 
-[32] Microsoft Paint
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Windows Features</b></summary>
+  
+  ```powershell
+optionalfeatures
+  ```
+</details>
 
-[33] Windows Mobility Center
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> User Accounts</b></summary>
+  
+  ```powershell
+netplwiz
+  ```
+</details>
 
-[34] Fonts
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Microsoft Paint</b></summary>
+  
+  ```powershell
+mspaint
+  ```
+</details>
 
-[35] DPI Scaling
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Windows Mobility Center</b></summary>
+  
+  ```powershell
+mblctr
+  ```
+</details>
 
-[36] Character Map
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Fonts</b></summary>
+  
+  ```powershell
+fonts
+  ```
+</details>
 
-[37] Check disk
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> DPI Scaling</b></summary>
+  
+  ```powershell
+dpiscaling
+  ```
+</details>
 
-[38] Battery Report
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Character Map</b></summary>
+  
+  ```powershell
+charmap
+  ```
+</details>
 
-[39] Computer Clear
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Check disk</b></summary>
+  
+  ```powershell
+chkdsk
+  ```
+</details>
 
-[40] Ambbhanadi Facebook
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Battery Report</b></summary>
+  
+  ```powershell
+cls
+REM Setting Paths and Creating Direcotories
+set host=%COMPUTERNAME%
+set BatteryReportPath="BatteryReports"
+set BatteryReportFile="%BatteryReportPath%/%host% - BatteryReport.html"
+mkdir %BatteryReportPath%
+REM Getting the Battery Report
+powercfg /batteryreport /output %BatteryReportFile%
+REM Opening Report Location
+explorer.exe %BatteryReportPath%
+pause
+goto :MENU
+  ```
+</details>
 
-[41] Ambbhanadi Youtube
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Computer Clear</b></summary>
+  
+  ```powershell
+cls
+cd C:\WINDOWS\Temp
+echo y|rd *.*
+cd\
+cd C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+echo y|rd *.*
+echo y|rd *.tmp
+cd\
+cd C:\WINDOWS\Prefetch
+echo y|rd *.*
+echo y|rd *.pf
+cd\
+cd C:\Documents and Settings\Administrator\Recent
+echo y|rd*.*
+cd\
+cd C:\Documents and Settings\Administrator\Cookies
+echo y|rd *.*
+pause
+goto :MENU
+  ```
+</details>
 
-[42] Ambbhanadi Github
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Ambbhanadi Facebook</b></summary>
+  
+  ```powershell
+start https://github.com/ambanadi/Ambanadi_Windows_Tools
+  ```
+</details>
 
-[43] Ambbhanadi Telegram
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Ambbhanadi Youtube</b></summary>
+  
+  ```powershell
+start https://www.youtube.com/@ambhanadi
+  ```
+</details>
 
-[44] Serial Number
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Ambbhanadi Github</b></summary>
+  
+  ```powershell
+start https://github.com/ambanadi
+  ```
+</details>
+
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Ambbhanadi Telegram</b></summary>
+  
+  ```powershell
+start https://www.t.me/ambbhanadi1
+  ```
+</details>
+
+<details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Serial Number</b></summary>
+  
+  ```powershell
+wmic bios get serialnumber
+  ```
+</details>
+
+### <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png">အလည်လာသူအရေအတွက်</h3>
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=64373&s=5' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
+
