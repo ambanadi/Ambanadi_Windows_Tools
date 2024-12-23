@@ -1,4 +1,4 @@
-<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Ambbhanadi Windows Tool (v3.8.4) </h1>
+<h1 align="center"><img width=32px src="https://i.ibb.co/5KpSCNv/win11.png"> Ambbhanadi Windows Tool (v1.0.0) </h1>
 
 ### <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Code ကြည့်ပါ</h3>
 
