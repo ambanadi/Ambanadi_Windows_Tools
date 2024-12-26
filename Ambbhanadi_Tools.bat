@@ -355,7 +355,7 @@ goto :MENU
 
 :se43
 cls
-start https://www.t.me/ambbhanadi1
+start https://www.t.me/ambbhanadi
 pause
 goto :MENU
 
