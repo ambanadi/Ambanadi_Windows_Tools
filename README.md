@@ -1,7 +1,7 @@
-<h1 align="center"><img width=32px src="https://github.com/ambanadi/Ambanadi_Windows_Tools/blob/main/photo.jpg"> Ambbhanadi Windows Tool (v1.0.0) </h1>
-<h3 align="center"> <a href="https://github.com/ambanadi/Ambanadi_Windows_Tools/blob/main/All_file_Copy.bat"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png">All_File_Copy_Tool</a></h3>
-
-### <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Code ကြည့်ပါ</h3>
+<h1 align="center"><img width=32px src="https://img.icons8.com/?size=100&id=1KkiQMfZOqry&format=png&color=000000"> Ambbhanadi Windows Tools (v1.0.0) </h1>
+<h3 align="center"> <a href="https://github.com/ambanadi/Ambanadi_Windows_Tools/blob/main/All_file_Copy.bat"> <img width=25px src="https://img.icons8.com/?size=100&id=TPn6mqr3qEVi&format=png&color=000000">All_File_Copy_Tool</a> |<a href="https://github.com/ambanadi/Ambanadi_Windows_Tools/blob/main/Ambbhanadi_Tools.bat"> <img width=25px src="https://img.icons8.com/?size=100&id=EBTRnyzoVTBa&format=png&color=000000">Windows_Tools</a></h3>
+<hr>
+<h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Code ကြည့်ပါ</h3>
 
 <details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> ipconfig command</b></summary>
   
@@ -329,7 +329,7 @@ start https://github.com/ambanadi
 <details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> Ambbhanadi Telegram</b></summary>
   
   ```powershell
-start https://www.t.me/ambbhanadi1
+start https://www.t.me/ambbhanadi
   ```
 </details>
 
@@ -340,6 +340,5 @@ wmic bios get serialnumber
   ```
 </details>
 
-### <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png">အလည်လာသူအရေအတွက်</h3>
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=64373&s=5' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=64373&s=5' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">အလည်လာသူအရေအတွက်</a></small></div>
 
