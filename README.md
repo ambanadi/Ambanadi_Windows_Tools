@@ -1,7 +1,8 @@
 <h1 align="center"><img width=32px src="https://img.icons8.com/?size=100&id=1KkiQMfZOqry&format=png&color=000000"> Ambbhanadi Windows Tools (v1.0.0) </h1>
 <h3 align="center"> <a href="https://github.com/ambanadi/Ambanadi_Windows_Tools/blob/main/All_file_Copy.bat"> <img width=25px src="https://img.icons8.com/?size=100&id=TPn6mqr3qEVi&format=png&color=000000">All_File_Copy_Tool</a> |<a href="https://github.com/ambanadi/Ambanadi_Windows_Tools/blob/main/Ambbhanadi_Tools.bat"> <img width=25px src="https://img.icons8.com/?size=100&id=EBTRnyzoVTBa&format=png&color=000000">Windows_Tools</a></h3>
 <hr>
-<h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Code ကြည့်ပါ</h3>
+သင်ခန်းစာကို Youtube တွင်လေ့လာရန်- <a href="https://www.youtube.com/playlist?list=PLQVvNkG0jzcwB9-kUKj7dnvperzKkrTe-"> <img width=25px src="https://img.icons8.com/?size=100&id=9a46bTk3awwI&format=png&color=000000">Windows_Tools</a>
+
 
 <details><summary><b><img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> ipconfig command</b></summary>
   
